@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringAop-test"
+  id="myeclipse.1490619034744"
+  context-root="/SpringAop-test"
+  j2ee-spec="6.0"
+  archive="SpringAop-test.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
